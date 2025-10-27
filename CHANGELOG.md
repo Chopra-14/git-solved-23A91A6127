@@ -1,0 +1,5 @@
+- 58458f0: docs: Add FAQ section (teddy, 4 minutes ago)
+- 78f2823: Save my local changes before merging (teddy, 16 minutes ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)
