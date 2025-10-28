@@ -5,9 +5,7 @@ set -e
 # Default to production if not specified
 DEPLOY_ENV=${DEPLOY_ENV:-production}
 
-echo "====================================="
 echo "DevOps Simulator - Deployment"
-echo "====================================="
 
 if [ "$DEPLOY_ENV" = "production" ]; then
     echo "Mode: Production"
