@@ -88,3 +88,7 @@ If any service fails to start, check the logs in the `logs/` directory.
 ## Usage Example
 
 To deploy in development mode:
+
+## Support
+
+For urgent support, contact the maintainer at support@example.com or check the GitHub issues page for resolutions.
