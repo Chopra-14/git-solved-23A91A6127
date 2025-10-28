@@ -40,3 +40,22 @@ export DEPLOY_ENV=production
 This line was added to test commit creation and pushing.
 
 ## FAQ
+1. How do I install and run this project?
+Just clone the repository and follow the steps in the README’s “Setup” section. Use the deploy script and configure environment variables as described.
+
+2. Which dependencies are needed?
+All dependencies are listed in package.json. To install them, run:
+
+text
+npm install
+or
+
+text
+pip install -r requirements.txt
+if using Python.
+
+3. How do I resolve merge conflicts?
+Conflicts typically appear when merging branches that changed the same file. Open the conflicted file, look for lines marked with <<<<<<<, edit the sections, then save and commit.
+
+4. Where do I report issues or bugs?
+Create an issue on the GitHub repository or email the maintainer listed in the README.
