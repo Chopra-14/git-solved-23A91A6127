@@ -92,3 +92,10 @@ To deploy in development mode:
 ## Support
 
 For urgent support, contact the maintainer at support@example.com or check the GitHub issues page for resolutions.
+
+## Contribution Guidelines
+
+Contributions are welcome!  
+- Fork the repo and create a branch for new features.
+- Submit a pull request with a clear description.
+- Follow our code style guide in CONTRIBUTING.md.
