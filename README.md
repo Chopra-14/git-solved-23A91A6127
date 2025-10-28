@@ -67,3 +67,14 @@ Execute `./scripts/deploy.sh` in the terminal.
 
 ### Where are config files?
 All config files are in
+
+
+# Project Title
+Initial project description.
+# Project Title
+Initial project description.
+
+## Updates
+- Added more detailed setup instructions.
+- Fixed typos in config explanation.
+
