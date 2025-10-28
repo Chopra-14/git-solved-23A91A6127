@@ -78,3 +78,9 @@ Initial project description.
 - Added more detailed setup instructions.
 - Fixed typos in config explanation.
 
+## Troubleshooting
+
+If any service fails to start, check the logs in the `logs/` directory.  
+- Run `cat logs/app.log` to see errors.
+- Ensure all environment variables are properly set in your `.env` file.
+- Try restarting the Docker containers with:  
