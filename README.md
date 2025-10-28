@@ -59,3 +59,11 @@ Conflicts typically appear when merging branches that changed the same file. Ope
 
 4. Where do I report issues or bugs?
 Create an issue on the GitHub repository or email the maintainer listed in the README.
+
+## FAQ
+
+### How do I run the deployment?
+Execute `./scripts/deploy.sh` in the terminal.
+
+### Where are config files?
+All config files are in
