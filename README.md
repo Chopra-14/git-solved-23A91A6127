@@ -99,3 +99,9 @@ Contributions are welcome!
 - Fork the repo and create a branch for new features.
 - Submit a pull request with a clear description.
 - Follow our code style guide in CONTRIBUTING.md.
+
+## Key Dependency Versions
+
+- Node.js: 18.x
+- Python: 3.11
+- Docker Compose: 2.x
