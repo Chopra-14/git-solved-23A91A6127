@@ -19,3 +19,14 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
+
+# Application Configurations
+
+server:
+  port: 8080  # Port to run the server on
+
+database:
+  host: localhost  # Database host address
+  port: 5432       # Database port
+  user: admin      # Database username
+  password: secret # Database password

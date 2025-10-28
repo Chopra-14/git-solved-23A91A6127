@@ -1,12 +1,9 @@
 const fs = require('fs');
-const configPath = './config/app-config.yaml';
+const path = './config/app-config.yaml';
 
-function testConfigExists() {
-if (fs.existsSync(configPath)) {
-console.log('PASS: app-config.yaml exists');
+if (fs.existsSync(path)) {
+  console.log('Config file exists.');
 } else {
-console.error('FAIL: app-config.yaml missing');
+  console.error('Config file missing!');
+  process.exit(1);
 }
-}
-
-testConfigExists();

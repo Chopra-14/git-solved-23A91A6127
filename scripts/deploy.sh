@@ -34,3 +34,18 @@ else
 fi
 
 echo "Deployment completed successfully!"
+
+#!/bin/bash
+
+# This script deploys the application to the server
+
+echo "Starting deployment process..."
+
+# Step 1: Build the Docker container
+docker build -t myapp .
+
+# Step 2: Run the container
+docker run -d -p 80:80 myapp
+
+echo "Deployment complete!"
+
