@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: [YOUR NAME]
-- Student ID: [YOUR ID]
-- Repository: [YOUR REPO URL]
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Name: SATHVIKA
+- Student ID: 23A91A6127
+- Repository: (https://github.com/Chopra-14/git-solved-23A91A6127.git)
+- Date Started: 27-10-2025
+- Date Completed: 28-1-2025
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
